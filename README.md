@@ -21,13 +21,13 @@ This package template provides a boilerplate setup for building modern web appli
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/your-package-name.git
+git clone https://github.com/SylvanoTombo/LIRUS.git myawesomeapp
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd your-package-name
+cd myawesomeapp
 ```
 
 3. Install PHP dependencies with Composer:
