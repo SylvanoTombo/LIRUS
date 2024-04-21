@@ -43,8 +43,7 @@ npm install
 
 or with Yarn:
 
-```
-bash
+```bash
 yarn install
 ```
 
